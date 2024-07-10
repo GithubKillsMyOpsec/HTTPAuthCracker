@@ -1,11 +1,10 @@
 # HTTPAuthCracker
 Brute forcing HTTP Basic Authentication, written with python
 
-there is a faster version written with Go  [Here](https://github.com/yasserjanah/BasicAuthBruteForcer)
+there is a faster version written with Go  [Here](https://github.com/yasserjanah/BasicAuthBruteForcer) but it doesn't have the rate limit detection.
 
 ```
     [+] AUTOR:        Yasser Janah + SierraUniformSierra
-
 ```
 
 # Getting the code
